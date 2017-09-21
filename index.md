@@ -23,4 +23,4 @@
 
 ## 课程表
 
-1. [assignment1](https://github.com/esecpp2017/esecpp2017.github.io/raw/master/LibArray.zip)
+1. [assignment1](https://github.com/esecpp2017/esecpp2017.github.io/raw/master/LibArray.zip)截止日期：2017年9月28日00点

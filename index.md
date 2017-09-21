@@ -17,11 +17,11 @@
 
 ## 阅读材料
 
-[我在南大的七年](http://mindhacks.cn/2009/05/17/seven-years-in-nju/)
+* C++ Primer
 
-[学习C++：实践者的方法](http://blog.csdn.net/pongba/article/details/1930150)
+* [学习C++：实践者的方法](http://blog.csdn.net/pongba/article/details/1930150)
 
-[C++ reference](http://en.cppreference.com/w/)
+* [C++ reference](http://en.cppreference.com/w/)
 
 ## 课程表
 

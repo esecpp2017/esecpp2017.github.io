@@ -28,7 +28,7 @@
 1. [assignment1](https://github.com/esecpp2017/esecpp2017.github.io/raw/master/LibArray.zip)截止日期：2017年9月28日00点
    [assignment1 answer](https://github.com/esecpp2017/esecpp2017.github.io/raw/master/LibArray.rar)
 
-2.[assignment2](https://github.com/esecpp2017/esecpp2017.github.io/raw/master/LibArrayClass.rar)截止日期：2017年10月19日00点
+2. [assignment2](https://github.com/esecpp2017/esecpp2017.github.io/raw/master/LibArrayClass.rar)截止日期：2017年10月19日00点
 
 课件：
 

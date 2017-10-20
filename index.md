@@ -25,5 +25,13 @@
 
 ## 课程表
 
-1. [assignment1](https://github.com/esecpp2017/esecpp2017.github.io/raw/master/LibArray.zip)截止日期：2017年9月28日00点
+*  [assignment1](https://github.com/esecpp2017/esecpp2017.github.io/raw/master/LibArray.zip)截止日期：2017年9月28日00点
    [assignment1 answer](https://github.com/esecpp2017/esecpp2017.github.io/raw/master/LibArray.rar)
+
+*  [assignment2](https://github.com/esecpp2017/esecpp2017.github.io/raw/master/LibArrayClass.rar)截止日期：2017年10月19日00点
+
+课件：
+
+* [2-程序设计基础知识回顾](https://github.com/esecpp2017/esecpp2017.github.io/raw/master/2-%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86%E5%9B%9E%E9%A1%BE.ppt)
+
+* [3-C++对C的扩充](https://github.com/esecpp2017/esecpp2017.github.io/raw/master/3-C%2B%2B%E5%AF%B9C%E7%9A%84%E6%89%A9%E5%85%85.ppt)

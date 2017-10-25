@@ -30,6 +30,8 @@
 
 *  [assignment2](https://github.com/esecpp2017/esecpp2017.github.io/raw/master/LibArrayClass.rar)截止日期：2017年10月19日00点
    [assignment2 answer](https://github.com/esecpp2017/esecpp2017.github.io/raw/master/%E7%AC%AC%E4%BA%8C%E6%AC%A1%E4%BD%9C%E4%B8%9A%E4%BF%AE%E6%AD%A3.rar)
+   
+*  [assignment3](https://github.com/esecpp2017/esecpp2017.github.io/raw/master/CPPList.rar) 截止日期：2017年11月1号00点
 
 课件：
 

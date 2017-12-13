@@ -32,16 +32,14 @@
    [assignment2 answer](https://github.com/esecpp2017/esecpp2017.github.io/raw/master/%E7%AC%AC%E4%BA%8C%E6%AC%A1%E4%BD%9C%E4%B8%9A%E4%BF%AE%E6%AD%A3.rar)
    
 *  [assignment3](https://github.com/esecpp2017/esecpp2017.github.io/raw/master/CPPList.rar) 截止日期：已截止
-   [assignment3 answer]
-   (https://github.com/esecpp2017/esecpp2017.github.io/raw/master/%E7%AC%AC%E4%B8%89%E6%AC%A1%E7%AD%94%E6%A1%88.zip)
+   [assignment3 answer](https://github.com/esecpp2017/esecpp2017.github.io/raw/master/%E7%AC%AC%E4%B8%89%E6%AC%A1%E7%AD%94%E6%A1%88.zip)
 
 *  [assignment4](https://github.com/esecpp2017/esecpp2017.github.io/raw/master/CPPListIterator.zip) 截止日期：已截止
-   [assignment4 answer]
-   (https://github.com/esecpp2017/esecpp2017.github.io/raw/master/%E7%AC%AC%E5%9B%9B%E6%AC%A1%E7%AD%94%E6%A1%88.rar)
+   [assignment4 answer](https://github.com/esecpp2017/esecpp2017.github.io/raw/master/%E7%AC%AC%E5%9B%9B%E6%AC%A1%E7%AD%94%E6%A1%88.rar)
    
 *  [assignment5](https://github.com/esecpp2017/esecpp2017.github.io/raw/master/Draw%20-%20Blank.rar) 截止日期：已截止
-   [assignment5 answer]
-   (https://github.com/esecpp2017/esecpp2017.github.io/raw/master/Draw.rar)
+   [assignment5 answer](https://github.com/esecpp2017/esecpp2017.github.io/raw/master/Draw.rar)
+
 课件：
 
 * [2-程序设计基础知识回顾](https://github.com/esecpp2017/esecpp2017.github.io/raw/master/2-%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86%E5%9B%9E%E9%A1%BE.ppt)

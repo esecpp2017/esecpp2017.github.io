@@ -25,19 +25,19 @@
 
 ## 课程表
 
-*[assignment1](https://github.com/esecpp2017/esecpp2017.github.io/raw/master/LibArray.zip)截止日期：已截止
+* [assignment1](https://github.com/esecpp2017/esecpp2017.github.io/raw/master/LibArray.zip)截止日期：已截止
    [assignment1 answer](https://github.com/esecpp2017/esecpp2017.github.io/raw/master/LibArray.rar)
 
-*[assignment2](https://github.com/esecpp2017/esecpp2017.github.io/raw/master/LibArrayClass.rar)截止日期：已截止
+* [assignment2](https://github.com/esecpp2017/esecpp2017.github.io/raw/master/LibArrayClass.rar)截止日期：已截止
    [assignment2 answer](https://github.com/esecpp2017/esecpp2017.github.io/raw/master/%E7%AC%AC%E4%BA%8C%E6%AC%A1%E4%BD%9C%E4%B8%9A%E4%BF%AE%E6%AD%A3.rar)
    
-*[assignment3](https://github.com/esecpp2017/esecpp2017.github.io/raw/master/CPPList.rar) 截止日期：已截止
+* [assignment3](https://github.com/esecpp2017/esecpp2017.github.io/raw/master/CPPList.rar) 截止日期：已截止
    [assignment3 answer](https://github.com/esecpp2017/esecpp2017.github.io/raw/master/%E7%AC%AC%E4%B8%89%E6%AC%A1%E7%AD%94%E6%A1%88.zip)
 
-*[assignment4](https://github.com/esecpp2017/esecpp2017.github.io/raw/master/CPPListIterator.zip) 截止日期：已截止
+* [assignment4](https://github.com/esecpp2017/esecpp2017.github.io/raw/master/CPPListIterator.zip) 截止日期：已截止
    [assignment4 answer](https://github.com/esecpp2017/esecpp2017.github.io/raw/master/%E7%AC%AC%E5%9B%9B%E6%AC%A1%E7%AD%94%E6%A1%88.rar)
    
-*[assignment5](https://github.com/esecpp2017/esecpp2017.github.io/raw/master/Draw%20-%20Blank.rar) 截止日期：已截止
+* [assignment5](https://github.com/esecpp2017/esecpp2017.github.io/raw/master/Draw%20-%20Blank.rar) 截止日期：已截止
    [assignment5 answer](https://github.com/esecpp2017/esecpp2017.github.io/raw/master/Draw.rar)
 
 课件：

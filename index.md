@@ -39,6 +39,16 @@
    
 * [assignment5](https://github.com/esecpp2017/esecpp2017.github.io/raw/master/Draw%20-%20Blank.rar) 截止日期：已截止
    [assignment5 answer](https://github.com/esecpp2017/esecpp2017.github.io/raw/master/Draw.rar)
+   
+   [assignment5 answer 补充](https://github.com/esecpp2017/esecpp2017.github.io/raw/master/assgiment5.zip)
+   
+* [assignment6] 
+
+1.[CPPListTemplate](https://github.com/esecpp2017/esecpp2017.github.io/raw/master/CPPListTemplate.zip)
+
+2.[LibArrayTemplate](https://github.com/esecpp2017/esecpp2017.github.io/raw/master/LibArrayTemplate.zip)
+
+3.[Find](https://github.com/esecpp2017/esecpp2017.github.io/raw/master/Find.zip)
 
 课件：
 

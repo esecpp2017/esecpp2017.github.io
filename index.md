@@ -50,6 +50,9 @@
 
 3.[Find](https://github.com/esecpp2017/esecpp2017.github.io/raw/master/Find.zip)
 
+注：本次上机作业有三个，请大家在提交作业的时候，将对应于不同项目的.cpp和.h文件分开打包提交（即三个压缩包）。并请按照CPPListTemplate、LibArrayTemplate、Find的顺序对压缩包分别命名为第六、第七、第八次作业。
+例如：对于LibArrayTemplate项目，应将CLibArray.cpp和CLibArray.h两个文件打包为：第七次作业_学号_姓名.zip/rar
+
 课件：
 
 * [2-程序设计基础知识回顾](https://github.com/esecpp2017/esecpp2017.github.io/raw/master/2-%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86%E5%9B%9E%E9%A1%BE.ppt)

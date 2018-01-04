@@ -45,13 +45,13 @@
 * [assignment6]   截止日期：已截止
  [assignment answer](https://github.com/esecpp2017/esecpp2017.github.io/raw/master/%E4%B8%8A%E6%9C%BA%E4%BD%9C%E4%B8%9A%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.rar)
 
-1.[CPPListTemplate](https://github.com/esecpp2017/esecpp2017.github.io/raw/master/CPPListTemplate.zip)
+ 1.[CPPListTemplate](https://github.com/esecpp2017/esecpp2017.github.io/raw/master/CPPListTemplate.zip)
 
-2.[LibArrayTemplate](https://github.com/esecpp2017/esecpp2017.github.io/raw/master/LibArrayTemplate.zip)
+ 2.[LibArrayTemplate](https://github.com/esecpp2017/esecpp2017.github.io/raw/master/LibArrayTemplate.zip)
 
-3.[Find](https://github.com/esecpp2017/esecpp2017.github.io/raw/master/Find.zip)
+ 3.[Find](https://github.com/esecpp2017/esecpp2017.github.io/raw/master/Find.zip)
 
-注：本次上机作业有三个，请大家在提交作业的时候，将对应于不同项目的.cpp和.h文件分开打包提交（即三个压缩包）。并请按照CPPListTemplate、LibArrayTemplate、Find的顺序对压缩包分别命名为第六、第七、第八次作业。
+ 注：本次上机作业有三个，请大家在提交作业的时候，将对应于不同项目的.cpp和.h文件分开打包提交（即三个压缩包）。并请按照CPPListTemplate、LibArrayTemplate、Find的顺序对压缩包分别命名为第六、第七、第八次作业。
 例如：对于LibArrayTemplate项目，应将CLibArray.cpp和CLibArray.h两个文件打包为：第七次作业_学号_姓名.zip/rar
 
 课件：

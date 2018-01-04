@@ -42,7 +42,7 @@
    
    [assignment5 answer 补充](https://github.com/esecpp2017/esecpp2017.github.io/raw/master/assgiment5.zip)
    
-* [assignment6] 
+* [assignment6]   截止日期：已截止
 
 1.[CPPListTemplate](https://github.com/esecpp2017/esecpp2017.github.io/raw/master/CPPListTemplate.zip)
 
@@ -52,6 +52,7 @@
 
 注：本次上机作业有三个，请大家在提交作业的时候，将对应于不同项目的.cpp和.h文件分开打包提交（即三个压缩包）。并请按照CPPListTemplate、LibArrayTemplate、Find的顺序对压缩包分别命名为第六、第七、第八次作业。
 例如：对于LibArrayTemplate项目，应将CLibArray.cpp和CLibArray.h两个文件打包为：第七次作业_学号_姓名.zip/rar
+ [assignment answer](https://github.com/esecpp2017/esecpp2017.github.io/raw/master/%E4%B8%8A%E6%9C%BA%E4%BD%9C%E4%B8%9A%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.rar)
 
 课件：
 
@@ -64,3 +65,7 @@
 * [5-操作符重载](https://github.com/esecpp2017/esecpp2017.github.io/raw/master/5-%E6%93%8D%E4%BD%9C%E7%AC%A6%E9%87%8D%E8%BD%BD.pptx)
 
 * [6-继承派生类](https://github.com/esecpp2017/esecpp2017.github.io/raw/master/%E7%AC%AC8%E7%AB%A0%20%E7%BB%A7%E6%89%BF%EF%BC%8D%E6%B4%BE%E7%94%9F%E7%B1%BB%20.ppt)
+
+* [7-类属机制——模板](https://github.com/esecpp2017/esecpp2017.github.io/raw/master/%E7%AC%AC9%E7%AB%A0%20%E7%B1%BB%E5%B1%9E%E6%9C%BA%E5%88%B6%EF%BC%8D%EF%BC%8D%E6%A8%A1%E6%9D%BF.ppt)
+
+* [8-总结](https://github.com/esecpp2017/esecpp2017.github.io/raw/master/%E6%80%BB%E7%BB%93.pptx)

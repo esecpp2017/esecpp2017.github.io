@@ -69,3 +69,15 @@
 * [7-类属机制——模板](https://github.com/esecpp2017/esecpp2017.github.io/raw/master/%E7%AC%AC9%E7%AB%A0%20%E7%B1%BB%E5%B1%9E%E6%9C%BA%E5%88%B6%EF%BC%8D%EF%BC%8D%E6%A8%A1%E6%9D%BF.ppt)
 
 * [8-总结](https://github.com/esecpp2017/esecpp2017.github.io/raw/master/%E6%80%BB%E7%BB%93.pptx)
+
+
+## 上机成绩
+* [成绩表](https://github.com/esecpp2017/esecpp2017.github.io/raw/master/ScoreList.xlsx)
+
+备注：
+
+1.作业提交却没有成绩的问题，请发邮件至esecpp2017@163.com说明情况。
+
+2.作业提交以是否在提交时收到邮件回执为准。
+
+3.作业所提供的测试代码与最终评分的测试代码不全相同，若出现作业成绩评分上的疑问，原则上将不予回复。

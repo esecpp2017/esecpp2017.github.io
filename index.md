@@ -72,7 +72,7 @@
 
 
 ## 上机成绩
-* [成绩表](https://github.com/esecpp2017/esecpp2017.github.io/raw/master/ScoreList.xlsx)
+* [成绩表]：上机成绩公示已结束，所有得到助教回复（包括邮件、QQ）的成绩问题均已解决，祝大家都有一个好成绩，也祝大家假期愉快(*^—^*)
 
 备注：
 
